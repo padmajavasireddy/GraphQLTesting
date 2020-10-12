@@ -1,0 +1,14 @@
+<suite name="Suite1" verbose="1" >
+  <test name="GetCityByNameTests" >
+    <classes>
+       <class name="getCityByNameTest" />
+    </classes>
+  </test>
+ 
+  <test name="weather check ">
+    <classes>
+      <class name="/graphqltesting/src/tests/Tests/graphqltestingTests/getCityByNameTest"></class>
+      
+    </classes>
+  </test>
+</suite>
